@@ -1,5 +1,5 @@
 ---
-baseurl: "http://www.jareddickson.com/"
+baseurl: "https://www.jareddickson.com/"
 languageCode: "en-us"
 metaDataFormat: "yaml"
 theme: "casper"
@@ -7,7 +7,7 @@ title: "Jared Dickson"
 params:
   author: "Jared Dickson"
   authorlocation: "Grand Rapids, MI"
-  authorwebsite: "http://www.jareddickson.com"
+  authorwebsite: "https://www.jareddickson.com"
   cover: "images/cover.jpg"
   description: "Ghost Developer, Brewmaster, Musician"
   githubName: "kraihn"
