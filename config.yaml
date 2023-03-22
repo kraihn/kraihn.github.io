@@ -6,12 +6,13 @@ theme: "casper"
 title: "Jared Dickson"
 params:
   author: "Jared Dickson"
-  authorlocation: "Grand Rapids, MI"
+  authorlocation: "Tampa, FL"
   authorwebsite: "https://www.jareddickson.com"
   cover: "images/cover.jpg"
-  description: "Ghost Developer, Brewmaster, Musician"
+  description: "Developer, Brewmaster, Musician"
   githubName: "kraihn"
   googleAnalyticsUserID: "UA-41892654-1"
   hideHUGOSupport: false
   twitterName: "kraihn"
 ---
+
