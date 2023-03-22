@@ -14,5 +14,10 @@ params:
   googleAnalyticsUserID: "UA-41892654-1"
   hideHUGOSupport: false
   twitterName: "kraihn"
+  profileMode:
+    enabled: true
+  socialIcons:
+    - name: "twitter"
+      url: "kraihn"
 ---
 
