@@ -2,7 +2,7 @@
 baseurl: "https://www.jareddickson.com/"
 languageCode: "en-us"
 metaDataFormat: "yaml"
-theme: "casper"
+theme: "PaperMod"
 title: "Jared Dickson"
 params:
   author: "Jared Dickson"
