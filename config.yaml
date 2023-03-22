@@ -16,6 +16,7 @@ params:
   twitterName: "kraihn"
   profileMode:
     enabled: true
+    subtitle: "Developer, Brewmaster, Musician"
   socialIcons:
     - name: "twitter"
       url: "kraihn"
